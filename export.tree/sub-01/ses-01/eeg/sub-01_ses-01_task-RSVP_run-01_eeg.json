@@ -1,0 +1,18 @@
+{
+    "TaskName": "RSVP",
+    "Manufacturer": "n/a",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 500.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 2390.998,
+    "RecordingType": "continuous",
+    "EEGReference": "n/a",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "based on the extended 10/20 system",
+    "EEGChannelCount": 28,
+    "EOGChannelCount": 4,
+    "ECGChannelCount": 1,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 5,
+    "TriggerChannelCount": 0
+}
